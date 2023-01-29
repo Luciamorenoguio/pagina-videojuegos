@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.default {
+  text-align: center;
+}
+table {
+  margin-left: 40px ;
+}
+h1 {
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(28, 25, 48);
+}
+button {
+  background-color: rgb(28, 25, 48);
+  border-color: rgb(28, 25, 48);
+  border-radius: 20px;
+  padding-top: 15px;
+  padding-bottom: 35px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+h2 {
+  color: white;
+}
+.vd {
+  width: 320px;
+  height: 200px;
+  margin: auto;
+}
+li {
+  list-style-type: none;
+  display: inline;
+  padding-right: 5px;
+}
+.logo {
+  width: 530px;
+  height: 320px;
+  padding-top: 40px;
+  padding-left: 50px;
+  float: left;
+}
+.texto {
+  padding-left: 630px;
+  padding-top: 120px;
+  margin-right: 70px;
+}
